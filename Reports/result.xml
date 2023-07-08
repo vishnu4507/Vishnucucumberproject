@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="9.758735">
+    <testcase classname="" name="Login Should be successfull" time="9.758735">
+        <system-out><![CDATA[Given that I have gone to the Google page...................................passed
+When I add Horse to the search box..........................................passed
+And click the Search Button.................................................passed
+Then cats should be mentioned in the results................................passed
+Then close the browser......................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
